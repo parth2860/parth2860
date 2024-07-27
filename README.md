@@ -32,15 +32,8 @@ I'm a dedicated Unreal Engine game developer passionate about creating immersive
  <img src="https://skillicons.dev/icons?i=cpp,java,python,c"/>
  
 <h3 align="left">Tools :</h3>
-  <img src="https://skillicons.dev/icons?i=unreal,git,github,visualstudio,blender,vscode"/>
+  <img src="https://skillicons.dev/icons?i=unreal,visualstudio,blender,git,github,vscode"/>
   
-<!--<p align="left">
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- </p>-->
-
 <!--
 ## 🌟 Featured Projects
 
@@ -69,7 +62,7 @@ A project focused on dynamically loading and managing meshes. Key features:
 
 ## Connect with me:
 Reach Out via Email :
-<a href="parth2837@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="20" width="20" /></a>
+<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="20" width="20" /> parth2837@gmail.com </a>
 
 Connect with Me on LinkedIn : 
 <a href="https://www.linkedin.com/in/parth-patel-7a7341244/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="20" width="20" /></a>
@@ -81,14 +74,7 @@ Subscribe to My YouTube Channel :
 <a href="https://www.youtube.com/@UGD-ARC?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="20" width="20" /></a>
 
 Explore My Portfolio :
-<a href="https://arc-arcade.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="20" /></a>
-<!--
-- **Email**: parth2837@gmail.com
-- **LinkedIn**: (https://www.linkedin.com/in/parth-patel-7a7341244/)
-- **LinkedIn**: (https://www.linkedin.com/in/arc-arcade-303815294/)
-- **YouTube**: (https://www.youtube.com/@UGD-ARC?sub_confirmation=1)
-- **Portfolio**: (https://arc-arcade.netlify.app/)
--->
+<a href="https://arc-arcade.netlify.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="" height="20" width="20" /></a>
 
 <!--
 ## 🎨 Design & Art
@@ -100,11 +86,7 @@ I also enjoy working on the visual aspects of game development, ensuring that th
 I started my journey as a game developer with a passion for creating worlds and experiences. Over the years, I have honed my skills and worked on various projects that challenged and expanded my abilities.
 -->
 
-
-
-
-
-
+##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth2860&show_icons=true&locale=en&layout=compact" alt="parth2860" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth2860&show_icons=true&locale=en" alt="parth2860" /></p>

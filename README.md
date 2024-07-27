@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **parth2860/parth2860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,28 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to My GitHub Profile
+<h1 align="center">Hi 👋, I'm PARTH</h1>
+<h3 align="center">Unreal Engine Game Developer</h3>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth2860" alt="parth2860" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth2860&label=Profile%20views&color=0e75b6&style=flat" alt="parth2860" /> </p>
 
 ## 👋 About Me
-I'm a dedicated Unreal Engine game developer with a passion for creating immersive and innovative gaming experiences. My expertise spans across various aspects of game development, including design, mechanics, and programming. I thrive on  bringing creative visions to life through interactive and engaging gameplay.
+I'm a dedicated Unreal Engine game developer passionate about creating immersive and innovative gaming experiences. My expertise spans various game development aspects, including design, mechanics, and programming. I thrive on  bringing creative visions to life through interactive and engaging gameplay.
 
 ## 🛠️ Skills
-
-### Technologies
-- **Unreal Engine 5**
-- **Blueprints**
-- **C++ Programming**
 
 ### Game Development
 - Game Mechanics
 - Game Design
 - Level Design
+<h3 align="left">Languages :</h3>
+ <img src="https://skillicons.dev/icons?i=cpp,java,python,c"/>
+ 
+<h3 align="left">Tools :</h3>
+  <img src="https://skillicons.dev/icons?i=unreal,git,github,visualstudio,blender,vscode"/>
   
-### Tools
-- Git & GitHub & TortoiseGit
-- Visual Studio
-- Blender 
+<!--<p align="left">
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ </p>-->
 
 <!--
 ## 🌟 Featured Projects
@@ -62,12 +66,29 @@ A project focused on dynamically loading and managing meshes. Key features:
 - Smooth transitions and animations
 -->
 
-## 📫 Get in Touch
+
+## Connect with me:
+Reach Out via Email :
+<a href="parth2837@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="20" width="20" /></a>
+
+Connect with Me on LinkedIn : 
+<a href="https://www.linkedin.com/in/parth-patel-7a7341244/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="20" width="20" /></a>
+
+Follow My Professional Updates :
+<a href="https://www.linkedin.com/in/arc-arcade-303815294/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="20" width="20" /></a>
+
+Subscribe to My YouTube Channel :
+<a href="https://www.youtube.com/@UGD-ARC?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="20" width="20" /></a>
+
+Explore My Portfolio :
+<a href="https://arc-arcade.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="20" /></a>
+<!--
 - **Email**: parth2837@gmail.com
 - **LinkedIn**: (https://www.linkedin.com/in/parth-patel-7a7341244/)
 - **LinkedIn**: (https://www.linkedin.com/in/arc-arcade-303815294/)
 - **YouTube**: (https://www.youtube.com/@UGD-ARC?sub_confirmation=1)
 - **Portfolio**: (https://arc-arcade.netlify.app/)
+-->
 
 <!--
 ## 🎨 Design & Art
@@ -78,5 +99,16 @@ I also enjoy working on the visual aspects of game development, ensuring that th
 ![Journey](https://your-image-link.com/journey-image.png)
 I started my journey as a game developer with a passion for creating worlds and experiences. Over the years, I have honed my skills and worked on various projects that challenged and expanded my abilities.
 -->
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth2860&show_icons=true&locale=en&layout=compact" alt="parth2860" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth2860&show_icons=true&locale=en" alt="parth2860" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth2860&" alt="parth2860" /></p>
 
 
